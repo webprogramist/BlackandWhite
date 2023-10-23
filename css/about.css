@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(45, 45, 45); 
+}
+.text8 {
+    position: absolute;
+    top: 13em;
+    left: 2em;
+    color: #ffffff;
+}
+.text9 {
+position: absolute;
+top: 7em;
+left: 32em;
+}
+.f {
+    position: absolute;
+    top: 1.5em;
+    right:  20em;
+}
+.e {
+    position: absolute;
+    top: 1em; 
+    left: 16em;
+}
+.insta {position: absolute;
+    font-weight: bolder;
+  right: 1em;
+  top: 2em;
+  cursor: pointer;
+      background-color: transparent;
+      height: 20px;
+      width: 50px;
+      font-size: 1.5em;
+          border-color: black;
+          border-radius: 10px;}
+
+          .twitter {position: absolute;
+            font-weight: bolder;
+          right: 3.5em;
+          top: 2em;
+          cursor: pointer;
+              background-color: transparent;
+              height: 20px;
+              width: 50px;
+              font-size: 1.5em;
+                  border-color: black;
+                  border-radius: 10px;}
+
+ .whatsapp {position: absolute;
+    font-weight: bolder;
+  right: 6em;
+  top: 2em;
+  cursor: pointer;
+      background-color: transparent;
+      height: 20px;
+      width: 50px;
+      font-size: 1.5em;
+          border-color: black;
+          border-radius: 10px;}    
+          .z {
+            position: absolute;
+            top: 5em;
+            right: 2em;
+          }            
+          .v {
+            position: absolute;
+            top: 28em;
+            right: 2em;
+          }
+          .logo 
+          {position: absolute;
+                 top: 1em;
+                 left: 34em;
+                 line-height: 80%;
+                 color: #ffffff;}
+                 .b {
+                    position: absolute;
+                    top:22em;
+                    right:4.5em;
+                    color: white;
+                 }
+                 .p {
+                    position: absolute;
+                    top: 45em;
+                    right: 4em;
+                    color: #ffffff;
+                 }
+         
