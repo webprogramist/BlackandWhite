@@ -1,0 +1,299 @@
+ body { 
+    background: url(rectangle.png);
+    background-size: 15%;
+    background-repeat: no-repeat;
+    background-color: rgb(45, 45, 45); 
+  
+}
+
+a {display: table;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin: 0 10px;
+margin-top: 6em;
+margin-left: 4em;
+  }
+  .icon{list-style: none;
+    display: table;
+    color: black;
+    font-family: Helvetica;
+  }
+ 
+ .photo {
+        position: absolute;
+        top: 10em;
+        right: 7em;
+        height: 60%;
+        width: 35em;
+ }
+ .insta {position: absolute;
+    font-weight: bolder;
+  right: 1em;
+  top: 2em;
+  cursor: pointer;
+      background-color: transparent;
+      height: 20px;
+      width: 50px;
+      font-size: 1.5em;
+          border-color: black;
+          border-radius: 10px;}
+
+          .twitter {position: absolute;
+            font-weight: bolder;
+          right: 3.5em;
+          top: 2em;
+          cursor: pointer;
+              background-color: transparent;
+              height: 20px;
+              width: 50px;
+              font-size: 1.5em;
+                  border-color: black;
+                  border-radius: 10px;}
+
+ .whatsapp {position: absolute;
+    font-weight: bolder;
+  right: 6em;
+  top: 2em;
+  cursor: pointer;
+      background-color: transparent;
+      height: 20px;
+      width: 50px;
+      font-size: 1.5em;
+          border-color: black;
+          border-radius: 10px;}                
+.text1 {
+    position: absolute;
+        top: 10em;
+        left: 13em;
+    font-size:19px;
+        font-weight: 15px;
+        font-family: 'goudita-serial-extrabold-regular';
+        line-height: 80%;
+        color: #ffffff;
+    }
+    .text2 {
+        position: absolute;
+            top:12em;
+            left: 13em;
+        font-size:19px;
+            font-weight: 15px;
+            font-family: 'goudita-serial-extrabold-regular';
+            line-height: 80%;
+            color: #ffffff;
+        }
+        .logo 
+         {position: absolute;
+                top: 1em;
+                left: 4em;
+            font-size:60px;
+                font-weight: bold;
+                font-family: 'goudita-serial-extrabold-regular';
+                line-height: 80%;
+                color: #ffffff;
+        
+        }
+        .rectangle2 {
+            position: absolute;
+            top: 50em;
+            right: 0.5em;
+            height: 120%;
+            width: 60em;
+     }
+     .photo2 {position: absolute;
+        top: 60em;
+        right: 8em;
+        height: 70%;
+        width: 35em;
+        
+ }
+    .text1 {
+        border-style: groove;
+        top:10em ;
+        width: 490px;
+        height: 115px;
+        border-top-style: groove; 
+    }
+    .l {
+        position: absolute;
+        top: 50em;
+        left: 20em;
+    }
+
+    .text3 {
+        position: absolute;
+        top:65em ;
+        left: 0.5em;
+        font-family: 'goudita-serial-extrabold-regular';
+        font-size: 15px;
+        color: white;
+    }
+    .free {
+       position: absolute;
+       top:60em ;
+       font-size: 30px;
+       left: 10em;
+       width: 1000px;
+       height: 100px;
+
+    }
+    .fol {
+        position: absolute;
+        top:65em ;
+        font-size: 30px;
+        left: 10em;
+        width: 1000px;
+        height: 100px;
+    }
+    .deniro {
+        position: absolute;
+        top: 110em;
+        left: 50em;
+    }
+    .pacino {
+        position: absolute;
+        top: 110em;
+        left: 10em;
+    }
+    .text4 {
+        position: absolute;
+        top: 125em;
+        left: 9em;
+        font-family: 'goudita-serial-extrabold-regular';
+        font-size: large;
+            color:white;
+    }
+    .g {
+        position: absolute;
+        top: 161em;
+        left: 10em;
+
+    }
+    .a {
+        position: absolute;
+        top: 161em;
+        left: 40em;
+    }
+    .c {
+        position: absolute;
+        top: 161em;
+    left: 70em;
+    }
+    .text5 {
+        position: absolute;
+        top: 151.5em;
+        left:12.5em ;
+        color: #ffffff;
+    }
+    .text6 {
+        position: absolute;
+        top: 151.5em;
+        left:42.5em ;
+        color: #ffffff;
+    }
+    .text7 {
+        position: absolute;
+        top: 151.5em;
+        left:72.5em ;
+        color: #ffffff;
+    }
+    .text8 {
+        position: absolute;
+        top: 200em;
+        left: 5em;
+        color: #ffffff;
+    }
+.text9 {
+    position: absolute;
+    top: 195em;
+    left: 38em;
+}
+.c {
+        width: 300px;
+        transition-property: all;
+       
+    }
+    .c:hover:hover {
+        transform: scale(1.5,1.5);
+    
+    }
+    .c {
+        transition: 6s;
+    }
+    .a  {
+    
+        width: 300px;
+    transition-property: all;
+   
+}
+.a:hover:hover {
+    transform: scale(1.5,1.5);
+
+}
+.a {
+    transition: 6s;
+}
+.g 
+ {width: 300px;
+transition-property: all;
+
+}
+.g:hover:hover {
+transform: scale(1.5,1.5);
+
+}
+.g {
+transition: 6s;
+}
+.tel {  
+    position: absolute;
+    top:189em;
+    left: 16em;
+    color: #ffffff;
+
+}
+.text10 {
+    position: absolute;
+    top: 194em;
+    left: 2em;
+}
+.mail {  
+    position: absolute;
+    top: 189em;
+    left: 30em;
+    color: #ffffff;
+
+}
+.shine-button {
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px 50px;
+    top: -100em;
+    left: 30em;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid #ffffff;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    transition: .2s ease-in-out;
+  }
+  .shine-button:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+  }
+  .shine-button:hover {
+    background: #000000;
+    color: #fff;
+  }
+  .shine-button:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+  }
+ 
